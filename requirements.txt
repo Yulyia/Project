@@ -22,7 +22,7 @@ pytest==4.0.1
 pytest-browsermob-proxy==0.1
 pytest-runner==4.2
 pytest-testrail==2.3.2
-PyYAML==3.13
+PyYAML==5.4
 requests==2.20.1
 retry==0.9.2
 selenium==3.141.0
