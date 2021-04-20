@@ -16,7 +16,7 @@ more-itertools==4.3.0
 multidict==4.5.2
 pluggy==0.8.0
 psycopg2==2.7.6.1
-py==1.7.0
+py==1.10.0
 pyotp==2.2.7
 pytest==4.0.1
 pytest-browsermob-proxy==0.1
